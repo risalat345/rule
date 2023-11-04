@@ -33,3 +33,6 @@ background-size: cover;
     padding: 10px;
 border-radius: 10px 0px;
 }
+body{
+    background-color: darkblue;
+}
